@@ -24,6 +24,7 @@ import Control.Exception (assert)
 import Control.Monad.Catch
 import qualified Data.Map as Map
 import qualified Data.List as List
+import Data.List (unzip)
 import Data.List.NonEmpty (NonEmpty((:|)))
 import qualified Data.List.NonEmpty as NonEmpty
 
